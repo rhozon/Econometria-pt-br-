@@ -2,7 +2,7 @@
 
 Biblioteca de econometria em pt-br
 
-[](loveeconometrics.jpg)
+![](loveeconometrics.jpg)
 
 - Wooldridge
 - Morettin e Bussab
