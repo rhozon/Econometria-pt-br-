@@ -3,3 +3,6 @@
 Biblioteca de econometria em pt-br
 
 [](loveeconometrics.jpg)
+
+- Wooldridge
+- 
